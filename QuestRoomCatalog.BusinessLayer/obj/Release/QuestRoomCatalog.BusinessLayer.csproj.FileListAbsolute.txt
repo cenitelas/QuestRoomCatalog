@@ -1,0 +1,15 @@
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.BusinessLayer.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.BusinessLayer.pdb
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\Ninject.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.DataLayer.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.DataLayer.pdb
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.pdb
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.xml
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\Ninject.xml
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.dll
+C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.pdb

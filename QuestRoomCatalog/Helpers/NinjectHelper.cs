@@ -14,6 +14,10 @@ namespace QuestRoomCatalog.Helpers
         public override void Load()
         {
             Bind<ICrud<QuestsLogosBO>>().To<QuestLogosHelper>();
+            Bind<ICrud<QuestsRoomsBO>>().To<QuestsRoomsHelper>();
+            Bind<ICrud<RatingBO>>().To<RatingHelper>();
+            Bind<ICrud<RolesBO>>().To<RolesHelper>();
+            Bind<ICrud<UsersBO>>().To<UsersHelper>();
         }
     }
 }

@@ -11,6 +11,26 @@ namespace QuestRoomCatalog.Models
     {
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
+            var hash = new PasswordHasher();
+            var context = new ApplicationDbContext();
+            if (!await context.Roles.AnyAsync(i => i.Name == "Admin"))
+            {
+                var adminRole = new IdentityRole() { Name = "Admin" };
+                var userRole = new IdentityRole() { Name = "User" };
+                var admin = new ApplicationUser() { Email = "Admin@text.ru", UserName = "Admin", PasswordHash = hash.HashPassword("Admin") };
+                var user = new ApplicationUser() { Email = "User@text.ru", UserName = "User", PasswordHash = hash.HashPassword("User") };
+                context.Users.Add(admin);
+                context.Users.Add(user);
+                context.Roles.Add(adminRole);
+                context.Roles.Add(userRole);
+                context.SaveChanges();
+                var role1 = new IdentityUserRole() { RoleId = adminRole.Id, UserId = admin.Id };
+                var role2 = new IdentityUserRole() { RoleId = userRole.Id, UserId = user.Id };
+                adminRole.Users.Add(role1);
+                userRole.Users.Add(role2);
+                context.SaveChanges();
+
+            }
             // Обратите внимание, что authenticationType должен совпадать с типом, определенным в CookieAuthenticationOptions.AuthenticationType
             var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
             // Здесь добавьте утверждения пользователя
@@ -25,8 +45,8 @@ namespace QuestRoomCatalog.Models
         {
         }
 
-        public static ApplicationDbContext Create()
-        {
+        public static ApplicationDbContext CreateAsync()
+        {         
             return new ApplicationDbContext();
         }
     }

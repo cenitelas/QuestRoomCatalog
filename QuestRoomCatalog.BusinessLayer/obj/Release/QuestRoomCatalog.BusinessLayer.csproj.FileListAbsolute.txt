@@ -13,3 +13,20 @@ C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoo
 C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.dll
 C:\Users\РоманчиковаС\Documents\Visual Studio 2015\Projects\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.pdb
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.BusinessLayer.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.BusinessLayer.pdb
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\Ninject.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.DataLayer.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.DataLayer.pdb
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\QuestRoomCatalog.DataLayer.dll.config
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.pdb
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\AutoMapper.xml
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\Ninject.xml
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.csproj.CopyComplete
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.dll
+C:\Users\fivern\source\repos\QuestRoomCatalog\QuestRoomCatalog.BusinessLayer\obj\Release\QuestRoomCatalog.BusinessLayer.pdb
